@@ -13,5 +13,3 @@ Este proyecto analiza empresas del S&P 500, generando KPIs como *P/E ratio*, *di
 - Promedio P/E sectorial ponderado por capitalización
 - Análisis temporal del rendimiento
 - Dashboard de métricas
-(https://www.linkedin.com/in/ivanmelero/)
-- 📊 [Power BI Dashboard (si lo publicas online)](https://app.powerbi.com/view?r=...)
